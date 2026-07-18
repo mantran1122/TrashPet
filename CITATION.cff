@@ -11,6 +11,13 @@ authors:
     affiliation: "Trường Công nghệ số và Trí tuệ nhân tạo, Trường Đại học Nam Cần Thơ"
 repository-code: "https://github.com/mantran1122/TrashPet"
 url: "https://github.com/mantran1122/TrashPet"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21421703"
+    description: "This is the archived snapshot of version 1.0.0 of TrashPet AI."
+version: "1.0.0"
+date-released: "2026-07-18"
+doi: "10.5281/zenodo.21421703"
 license: MIT
 keywords:
   - desktop agent
