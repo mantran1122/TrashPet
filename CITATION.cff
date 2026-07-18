@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "TrashPet AI: A Multi-LLM Desktop Companion Agent with Adaptive Gamified Storage Management"
+type: software
+authors:
+  - given-names: "Minh Mẫn"
+    family-names: "Trần"
+    affiliation: "Trường Công nghệ số và Trí tuệ nhân tạo, Trường Đại học Nam Cần Thơ"
+  - given-names: "Thuận Tiến"
+    family-names: "Trần"
+    affiliation: "Trường Công nghệ số và Trí tuệ nhân tạo, Trường Đại học Nam Cần Thơ"
+repository-code: "https://github.com/mantran1122/TrashPet"
+url: "https://github.com/mantran1122/TrashPet"
+license: MIT
+keywords:
+  - desktop agent
+  - LLM
+  - gamification
+  - Recycle Bin management
+  - Qt
