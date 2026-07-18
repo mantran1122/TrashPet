@@ -1,0 +1,24 @@
+# RABS eval run configuration
+
+compiler: g++ (MinGW-w64) -O2 -std=c++17
+compiler_version: 13.1.0
+repetitions_per_combo: 30
+main_grid: 5 scenarios x 4 budget levels x 4 baseline/production policies + RABS = 5 policies
+total_main_runs: 3000
+ablation_grid: 5 scenarios x 4 budget levels x {RABS, RABS_NoRisk}
+total_ablation_runs: 1200
+risk_threshold: 0.4
+max_file_bytes_skip_threshold: 1073741824 (1 GB, matches production HungerCfg::kMaxFileBytes)
+note: synthetic population model, no real files created/deleted; deletion outcomes are a seeded
+      Bernoulli failure model (see deletionFailureProb in rabs_eval.cpp).
+
+## Test machine (Section 5.3)
+CPU: 11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+RAM: 31.8 GB
+Disk: Hitachi HTS545032B9A300 (HDD)
+OS: Microsoft Windows 11 Pro 10.0.26200 (Build 26200)
+Qt SDK installed: 6.11.1 (harness itself does not link Qt; Qt version listed for parity with
+                   the production TrashPet AI app, built with the same MinGW 13.1.0 toolchain)
+Compiler: MinGW-w64 g++ 13.1.0, -O2 -std=c++17
+Repetitions actually run: 30 per (scenario, budget_level) combo
+Total planning runs executed: 3000 (main grid) + 1200 (ablation grid) = 4200

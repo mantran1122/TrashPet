@@ -1,0 +1,3 @@
+# Real API key config files (contain live keys) — never commit secrets.
+# config.example.json files are safe templates and are still tracked.
+**/config/config.json

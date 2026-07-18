@@ -1,0 +1,84 @@
+# ninja log v7
+36	985	8050094996962738	TrashPetAI_autogen/timestamp	2314fed69efb0031
+36	985	8050094996962738	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+36	985	8050094996962738	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+36	985	8050094996962738	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+999	6187	8050095000142747	CMakeFiles/TrashPetAI.dir/characterwidget.cpp.obj	f0ad1365e4a91edf
+986	4744	8050095000002740	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+993	6966	8050095000072763	CMakeFiles/TrashPetAI.dir/main.cpp.obj	30d23de5db92c87
+6966	7963	8050095059812896	TrashPetAI.exe	78b7c29f3de2a350
+1006	5908	8050095000212785	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+1394	7099	8039250530897895	CMakeFiles/TrashPetAI.dir/configmanager.cpp.obj	c0a297d5e71772c2
+183	3014	8039712014741179	CMakeFiles/TrashPetAI.dir/geminiclient.cpp.obj	df3086a82d39efd7
+53	6954	8047675941638403	CMakeFiles/TrashPetAI.dir/hungermanager.cpp.obj	dadf237058c21ed1
+47	8880	8047675941573190	CMakeFiles/TrashPetAI.dir/petstate.cpp.obj	1edabd041745eb9a
+310	3458	8047676511285428	CMakeFiles/TrashPetAI.dir/eatdialog.cpp.obj	5718cdfcf5923010
+182	5587	8039750261818096	CMakeFiles/TrashPetAI.dir/recyclebinmanager.cpp.obj	ff667c5ea985bca8
+98	3912	8059086946413486	build.ninja	9f35ffd3e2689a57
+63	5539	8059087001831389	TrashPetAI_autogen/timestamp	2314fed69efb0031
+63	5539	8059087001831389	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+63	5539	8059087001831389	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+63	5539	8059087001831389	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+5540	6187	8059087009178483	resource_rc.o	84194115d6b03d66
+5540	6187	8059087009178483	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/resource_rc.o	84194115d6b03d66
+6282	13997	8059087010581248	CMakeFiles/TrashPetAI.dir/hungermanager.cpp.obj	dadf237058c21ed1
+6311	15520	8059087010868007	CMakeFiles/TrashPetAI.dir/healthdialog.cpp.obj	12c43c9325546d44
+6248	16014	8059087010240646	CMakeFiles/TrashPetAI.dir/openaiclient.cpp.obj	e457edb3bf60524d
+6239	16067	8059087010149168	CMakeFiles/TrashPetAI.dir/geminiclient.cpp.obj	df3086a82d39efd7
+6263	16114	8059087010392725	CMakeFiles/TrashPetAI.dir/claudeclient.cpp.obj	6ff56f2c1407cc4f
+6292	16718	8059087010676620	CMakeFiles/TrashPetAI.dir/setupdialog.cpp.obj	503c1f304059a215
+6187	16765	8059087009630721	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+6229	16890	8059087010049667	CMakeFiles/TrashPetAI.dir/configmanager.cpp.obj	c0a297d5e71772c2
+6272	16999	8059087010484106	CMakeFiles/TrashPetAI.dir/petstate.cpp.obj	1edabd041745eb9a
+6220	17568	8059087009956541	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+6301	20595	8059087010767432	CMakeFiles/TrashPetAI.dir/systemmonitor.cpp.obj	1abb8343e5918cb0
+6197	21327	8059087009731359	CMakeFiles/TrashPetAI.dir/main.cpp.obj	30d23de5db92c87
+12	757	8059102786509675	TrashPetAI_autogen/timestamp	2314fed69efb0031
+12	757	8059102786509675	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+12	757	8059102786509675	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+12	757	8059102786509675	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+759	6051	8059102788440251	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+783	6640	8059102788677758	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+771	7859	8059102788556964	CMakeFiles/TrashPetAI.dir/characterwidget.cpp.obj	f0ad1365e4a91edf
+7859	9905	8059102859436584	TrashPetAI.exe	5d9cd286fedd036
+21	710	8059143862590305	TrashPetAI_autogen/timestamp	2314fed69efb0031
+21	710	8059143862590305	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+21	710	8059143862590305	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+21	710	8059143862590305	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+711	5879	8059143863571385	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+732	6547	8059143863774582	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+724	7744	8059143863702062	CMakeFiles/TrashPetAI.dir/characterwidget.cpp.obj	f0ad1365e4a91edf
+718	7834	8059143863636831	CMakeFiles/TrashPetAI.dir/main.cpp.obj	30d23de5db92c87
+7834	9262	8059143934789870	TrashPetAI.exe	5d9cd286fedd036
+29	767	8059146756192941	TrashPetAI_autogen/timestamp	2314fed69efb0031
+29	767	8059146756192941	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+29	767	8059146756192941	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+29	767	8059146756192941	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+782	3970	8059146757221311	CMakeFiles/TrashPetAI.dir/hungermanager.cpp.obj	dadf237058c21ed1
+768	5634	8059146757081149	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+777	6198	8059146757181304	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+772	7209	8059146757121045	CMakeFiles/TrashPetAI.dir/characterwidget.cpp.obj	f0ad1365e4a91edf
+7209	8766	8059146821499053	TrashPetAI.exe	5d9cd286fedd036
+37	255	8059150039700146	TrashPetAI_autogen/timestamp	2314fed69efb0031
+37	255	8059150039700146	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+37	255	8059150039700146	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+37	255	8059150039700146	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+256	4104	8059150041891734	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+4104	5616	8059150080358500	TrashPetAI.exe	5d9cd286fedd036
+80	328	8059154530395121	TrashPetAI_autogen/timestamp	2314fed69efb0031
+80	328	8059154530395121	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+80	328	8059154530395121	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+80	328	8059154530395121	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+329	8471	8059154532882108	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+8471	10545	8059154614305447	TrashPetAI.exe	5d9cd286fedd036
+38	868	8059162080229820	TrashPetAI_autogen/timestamp	2314fed69efb0031
+38	868	8059162080229820	TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+38	868	8059162080229820	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/timestamp	2314fed69efb0031
+38	868	8059162080229820	C:/Users/Administrator/Desktop/TrashPet AI Desktop Assistant/TrashPetAI/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/TrashPetAI_autogen/mocs_compilation.cpp	2314fed69efb0031
+887	4834	8059162081951564	CMakeFiles/TrashPetAI.dir/hungermanager.cpp.obj	dadf237058c21ed1
+893	7091	8059162082001702	CMakeFiles/TrashPetAI.dir/eatdialog.cpp.obj	5718cdfcf5923010
+882	7160	8059162081891327	CMakeFiles/TrashPetAI.dir/petstate.cpp.obj	1edabd041745eb9a
+868	7219	8059162081756324	CMakeFiles/TrashPetAI.dir/TrashPetAI_autogen/mocs_compilation.cpp.obj	d5d042ff6e6b7d9e
+877	7593	8059162081851274	CMakeFiles/TrashPetAI.dir/chatwidget.cpp.obj	9fb358ec5ab979f
+873	9165	8059162081806204	CMakeFiles/TrashPetAI.dir/characterwidget.cpp.obj	f0ad1365e4a91edf
+9165	10887	8059162164727014	TrashPetAI.exe	5d9cd286fedd036

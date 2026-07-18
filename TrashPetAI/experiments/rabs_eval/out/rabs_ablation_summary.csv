@@ -1,0 +1,3 @@
+policy,n_reps,budget_error_abs_mean,budget_error_abs_std,overshoot_ratio_mean,overshoot_ratio_std,target_achievement_rate,risky_selection_rate,protected_violation_rate,planning_time_us_mean,planning_time_us_median,planning_time_us_p95,actual_reclaimed_bytes_mean,actual_reclaimed_bytes_std,deletion_success_rate
+RABS,600,3383994808.098333,5744558073.451769,0.000008,0.000019,0.293333,0.146639,0.000000,25.458333,22.400000,53.300000,14639593487.073334,9961918162.794523,0.978985
+RABS_NoRisk,600,3397926448.000000,5758492187.972340,0.000003,0.000006,0.351667,0.347953,0.000000,29.811333,19.600000,64.300000,14625617689.891666,9960994498.381239,0.978039
